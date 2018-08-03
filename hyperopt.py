@@ -1,6 +1,6 @@
 '''
 Hyperoptimization method I used for tunning the parameters of light gbm
-
+It can be used for tunning the parameters for a model
 '''
 
 
